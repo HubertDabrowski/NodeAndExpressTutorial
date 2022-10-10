@@ -1,0 +1,1 @@
+one: pierwszy plik tekstowy, two: siema szwagier
